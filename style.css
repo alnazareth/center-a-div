@@ -1,0 +1,50 @@
+
+/* start one*/
+
+div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+/* End one*/
+
+/* start two*/
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* End two*/
+
+
+
+div {
+    text-align: center;
+    line-height: 100vh;
+}
+
+/**/
+/**/
+container {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+/**/
+
+/**/
+
+container {
+    position: relative;
+    height: 100vh;
+}
+
+div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/**/
